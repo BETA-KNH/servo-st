@@ -1,0 +1,30 @@
+PROJECT_NAME           = "servo_st"
+PROJECT_NUMBER         = 1.0.0
+PROJECT_BRIEF          = "ST Servo Protocol Library and Tools"
+
+# Input configuration
+INPUT                  = include app
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+
+# Output configuration
+OUTPUT_DIRECTORY       = docs
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+# ------------------------------------------------------------------------------
+# Custom Theme Configuration (Doxygen Awesome)
+# ------------------------------------------------------------------------------
+# We include both the base awesome theme and your custom theme css
+HTML_EXTRA_STYLESHEET  = docs-theme/doxygen-awesome-css/doxygen-awesome.css \
+                         docs-theme/custom-theme.css
+
+# Add any required scripts from the awesome theme
+HTML_EXTRA_FILES       = docs-theme/doxygen-awesome-css/doxygen-awesome-darkmode-toggle.js \
+                         docs-theme/doxygen-awesome-css/doxygen-awesome-interactive-toc.js \
+                         docs-theme/doxygen-awesome-css/doxygen-awesome-fragment-copy-button.js \
+                         docs-theme/doxygen-awesome-css/doxygen-awesome-paragraph-link.js
+
+GENERATE_TREEVIEW      = YES
+DISABLE_INDEX          = NO
+FULL_SIDEBAR           = NO

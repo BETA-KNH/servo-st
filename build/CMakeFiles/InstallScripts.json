@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/med/programming/beta/servo_st/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

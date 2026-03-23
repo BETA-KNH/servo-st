@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/med/programming/beta/servo_st/build",
+  "command": "/usr/bin/clang++ -I/home/med/programming/beta/servo_st/include -g -std=gnu++17 -o CMakeFiles/st_scan.dir/app/st_scan.cpp.o -c /home/med/programming/beta/servo_st/app/st_scan.cpp",
+  "file": "/home/med/programming/beta/servo_st/app/st_scan.cpp",
+  "output": "/home/med/programming/beta/servo_st/build/CMakeFiles/st_scan.dir/app/st_scan.cpp.o"
+},
+{
+  "directory": "/home/med/programming/beta/servo_st/build",
+  "command": "/usr/bin/clang++ -I/home/med/programming/beta/servo_st/include -g -std=gnu++17 -o CMakeFiles/st_cli.dir/app/st_cli.cpp.o -c /home/med/programming/beta/servo_st/app/st_cli.cpp",
+  "file": "/home/med/programming/beta/servo_st/app/st_cli.cpp",
+  "output": "/home/med/programming/beta/servo_st/build/CMakeFiles/st_cli.dir/app/st_cli.cpp.o"
+}
+]

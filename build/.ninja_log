@@ -1,0 +1,5 @@
+# ninja log v7
+0	803	1774290119486376264	CMakeFiles/st_scan.dir/app/st_scan.cpp.o	f1cebf38fc14cf97
+804	906	1774290120291941196	st_scan	16170a43a909aa8f
+0	1056	1774290119487376275	CMakeFiles/st_cli.dir/app/st_cli.cpp.o	b4eae5e3cd11d59e
+1056	1145	1774290120542387274	st_cli	db895ff400fd661b
