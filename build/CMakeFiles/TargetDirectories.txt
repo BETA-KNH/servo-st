@@ -1,4 +1,0 @@
-/home/med/programming/beta/servo_st/build/CMakeFiles/st_scan.dir
-/home/med/programming/beta/servo_st/build/CMakeFiles/st_cli.dir
-/home/med/programming/beta/servo_st/build/CMakeFiles/edit_cache.dir
-/home/med/programming/beta/servo_st/build/CMakeFiles/rebuild_cache.dir
